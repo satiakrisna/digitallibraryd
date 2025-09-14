@@ -15,7 +15,7 @@ Berikut adalah Koleksi yang dimiliki:
 8. [Trending Before You Die](ebook/TRENDING-BEFORE-YOU-DIE.pdf) - Muhammad Ari Pratomo (2025)
 9. [Bahagia Kenapa Tidak](ebook/Bahagia kenapa tidak 1.pdf) - Reza A.A Wattimena (2014)
 10. [The Science Of Money](ebook/The-Science-Of-Money.pdf) - Dr. Niruben Amin (2005)
-11. [Resume Materi VR](ebook/Resume Materi VR.pdf) - Satia Krisna Dewi (2025)
+11. [Resume Materi VR](ebook/Resume Materi VR.pdf) - Satia Krisna Dewi (13040123140150)
 
 ---
 
