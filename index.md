@@ -18,5 +18,35 @@ Berikut adalah Koleksi yang dimiliki:
 11. [Resume Materi VR](ebook/Resume Materi VR.pdf) - Satia Krisna Dewi (13040123140150)
 
 ---
-
+<html>
+<HEAD>
+<TITLE>Judul dokumen</TITLE>
+</HEAD>
+<body> 
+<h1 style="background-color:beige;">
+<marquee scrollamount=10 direction="up"><font color="blue" face="Britannic">Ini halaman 1</font></h1> 
+</marquee></h1>
+<hr>
+<a href="halaman2.html">Halaman 2</a>
+<hr>
+<p>My first paragraph</p>
+<marquee direction="down" width="250" height="200" behavior="alternate" style="border:solid">
+<marquee behavior="alternate">
+LOUIS PARTRIDGE💙💙💙<p>BYEON WOO SEOK💙💙💙</p>
+</marquee>
+</marquee>
+<p>Klik tombol untuk menampilkan Prompt Box</p>
+<button onclick="myFunction()">Coba</button>
+<p id="demo"></p>
+<script>
+function myFunction() {
+    var x;
+    var nama = prompt("Anda telah mengambil matakuliah Teknologi Informasi, ketikkan nama Anda!","Your Name Here");
+    var nim = prompt("Ketikkan nim Anda!"); 
+	var prodi = prompt("Ketikkan prodi Anda!"); 
+	if (nama != null) {document.getElementById("demo").innerHTML
+	="Selamat Pagi " + nama + "! Nim Anda : "+ nim + ", ProdiAnda : "+prodi;}}
+</script
+</body>
+</html>
 *Powered by Github Pages*
